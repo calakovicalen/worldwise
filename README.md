@@ -1,6 +1,6 @@
 # Worldwise
 
-Web application built using React and GeoLocation.
+Web application built using React(ContextAPI) and GeoLocation.
 
 To fully explore site please download the code run:\
 -> npm install\
